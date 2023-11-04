@@ -42,6 +42,7 @@
     * 2023-09-21
     * adapter: "will [...] source adapters from Tesla [...] once available"
     * port change: 2025
+  * Land Rover
 * Mercedes-Benz Group
   * Mercedes-Benz
     * https://group.mercedes-benz.com/innovation/drive-systems/electric/integration-of-nacs.html
