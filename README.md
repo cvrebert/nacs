@@ -2,6 +2,10 @@
 
 * North American Charging Standard (NACS)
 * SAE J3400
+
+---
+
+* Aptera
 * Ford
   * https://media.ford.com/content/fordmedia/fna/us/en/news/2023/05/25/ford-ev-customers-to-gain-access-to-12-000-tesla-superchargers--.html
   * 2023-05-25
@@ -14,7 +18,6 @@
   * adapter: early 2024
   * port change: 2025
   * Brands: Buick, Cadillac, Chevrolet/Chevy,	GMC
-* Aptera
 * BMW
   * Brands: BMW, Mini, Rolls-Royce
 * Fisker
@@ -61,12 +64,32 @@
   * Mitsubishi
 * Rivian
 * Subaru
+* Tesla
+ * duh
 * Toyota
   * Lexus
 * Volvo
   * Polestar
+
+---
+
+* To be categorized
+  * Aston Martin
+  * Suzuki
+  * VinFast
+
+---
+
 * No announcements as of 2023-11-01
   * Lucid
   * Mazda
   * Stellantis
-  * Volkswagen
+    * Alfa Romeo
+    * Chrysler
+    * Dodge
+    * Fiat
+    * Jeep
+    * Maserati
+    * Ram
+  * Volkswagen Group
+    * Brands: Audi, Bentley, Lamborghini, Porsche, Volkswagen/VW
