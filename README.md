@@ -43,6 +43,10 @@
     * port change: 2025
 * Mercedes-Benz
 * Nissan
+  * https://usa.nissannews.com/en-US/releases/nissan-to-adopt-north-american-charging-standard-nacs-for-ariya-and-future-ev-models
+  * 2023-07-19
+  * adapter: 2024
+  * port change: 2025
 * Polestar
 * Rivian
 * Subaru
