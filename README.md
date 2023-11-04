@@ -16,6 +16,7 @@
   * Brands: Buick, Cadillac, Chevrolet/Chevy,	GMC
 * Aptera
 * BMW
+  * Brands: BMW, Mini, Rolls-Royce
 * Fisker
 * Honda
   * Brands: Honda, Acura, Afeela (Sony Honda Mobility)
