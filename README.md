@@ -18,7 +18,7 @@
 * BMW
 * Fisker
 * Honda
-* Hyundai
+* Hyundai Motor Group
   * Brands: TODO
   * Hyundai
     * https://www.hyundainews.com/en-us/releases/3952
