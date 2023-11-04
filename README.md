@@ -27,7 +27,7 @@
   * port change: 2025
 * Honda
   * Honda
-    * https://hondanews.com/en-US/releases/release-e888887b6471c0aba407829ba71814b8-honda-to-adopt-north-american-charging-standard-nacs-for-its-ev-models-in-north-america
+    * https://hondanews.com/en-US/releases/release-e888887b6471c0aba407829ba71814b8
     * 2023-09-07
     * adapter: confirmed; no date promised
     * port change: 2025
