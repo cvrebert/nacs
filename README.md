@@ -42,6 +42,10 @@
     * adapter: "will [...] source adapters from Tesla [...] once available"
     * port change: 2025
 * Mercedes-Benz
+  * https://group.mercedes-benz.com/innovation/drive-systems/electric/integration-of-nacs.html
+  * 2023-07-07
+  * adapter: 2024
+  * port change: 2025
 * Nissan
   * https://usa.nissannews.com/en-US/releases/nissan-to-adopt-north-american-charging-standard-nacs-for-ariya-and-future-ev-models
   * 2023-07-19
