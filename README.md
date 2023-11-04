@@ -72,6 +72,10 @@
     * Brands: Nissan, Infiniti
   * Mitsubishi
 * Rivian
+  * https://rivian.com/newsroom/article/rivian-accelerates-electrification-through-adoption-of-north-american-charging-standard-and-access-to-teslas-supercharger-network
+  * 2023-06-20
+  * adapter: spring 2024
+  * port change: 2025
 * Subaru
   * https://media.subaru.com/pressrelease/2115/117/subaru-adopt-tesla-north-american-charging-standard-north
   * 2023-11-01
