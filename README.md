@@ -73,6 +73,10 @@
   * Mitsubishi
 * Rivian
 * Subaru
+  * https://media.subaru.com/pressrelease/2115/117/subaru-adopt-tesla-north-american-charging-standard-north
+  * 2023-11-01
+  * adapter: 2025
+  * port change: 2025
 * Tesla
   * duh
 * Toyota
