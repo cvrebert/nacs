@@ -105,7 +105,12 @@
   * port change: 2025
   * Lexus
     * Included in Toyota announcement.
-* Volvo
+* Volvo Group
+  * Volvo
+    * https://www.media.volvocars.com/us/en-us/media/pressreleases/316416/electric-volvo-car-drivers-will-get-access-to-12000-tesla-superchargers-across-the-united-states-can
+    * 2023-06-27
+    * adapter: H1 2024
+    * port change: 2025
   * Polestar
     * https://media.polestar.com/us/en/media/pressreleases/669136/polestar-will-adopt-north-american-charging-standard-to-enable-access-to-tesla-supercharger-network-1
     * 2023-06-29
