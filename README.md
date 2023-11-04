@@ -20,6 +20,11 @@
 * Honda
 * Hyundai
   * Brands: TODO
+  * Genesis
+    * https://www.genesisnewsusa.com/en-us/releases/323
+    * 2023-10-05
+    * adapter: Q1 2025
+    * port change: Q4 2024
   * Kia
     * https://www.kiamedia.com/us/en/media/pressreleases/21261/kia-to-adopt-north-american-charging-standard-in-the-fourth-quarter-of-2024
     * 2023-10-05
