@@ -60,6 +60,7 @@
 * Rivian
 * Subaru
 * Toyota
+  * Lexus
 * Volvo
   * Polestar
 * No announcements as of 2023-11-01
