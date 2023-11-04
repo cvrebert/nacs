@@ -18,7 +18,7 @@
 * BMW
 * Fisker
 * Honda
-  * Brands: Honda, Acura
+  * Brands: Honda, Acura, Afeela (Sony Honda Mobility)
 * Hyundai Motor Group
   * Brands: TODO
   * Hyundai
