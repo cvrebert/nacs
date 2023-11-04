@@ -36,6 +36,11 @@
     * adapter: Q1 2025
     * port change: Q4 2024
 * Jaguar Land Rover
+  * Jaguar
+    * https://media.jaguar.com/en-us/news/2023/09/jaguar-accelerates-towards-its-all-electric-future-tesla-supercharger-deal-north
+    * 2023-09-21
+    * adapter: "will [...] source adapters from Tesla [...] once available"
+    * port change: 2025
 * Mercedes-Benz
 * Nissan
 * Polestar
