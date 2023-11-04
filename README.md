@@ -19,6 +19,11 @@
   * port change: 2025
   * Brands: Buick, Cadillac, Chevrolet/Chevy,	GMC
 * BMW
+  * https://www.press.bmwgroup.com/usa/article/detail/T0437767EN_US/bmw-of-north-america-expands-electric-vehicle-charging-options-for-customers-in-the-u-s-and-canada-with-access-to-tesla-supercharger-network?language=en_US
+  * 2023-10-17
+  * adapter: early 2025
+  * port change: 2025
+  * Includes all brands.
   * Brands: BMW, Mini, Rolls-Royce
 * Fisker Inc.
   * https://investors.fiskerinc.com/news/news-details/2023/Fisker-Customers-Will-Gain-Access-to-Tesla-Superchargers-as-Company-Adopts-North-American-Charging-Standard/default.aspx
