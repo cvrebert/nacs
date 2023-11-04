@@ -40,7 +40,13 @@
     * 2023-09-07
     * adapter: confirmed; no date promised
     * port change: 2025
-  * Brands: Honda, Acura, Afeela (Sony Honda Mobility)
+  * Acura
+    * https://acuranews.com/en-US/releases/honda-and-acura-electric-vehicles-will-have-access-to-largest-ev-charging-networks-in-north-america-aided-by-new-agreements-with-evgo-and-electrify-america
+    * 2023-09-28
+    * Confirms that Honda announcement applies to Acura too.
+    * adapter: confirmed; no date promised
+    * port change: 2025
+  * Afeela (Sony Honda Mobility)
 * Hyundai Motor Group
   * Hyundai
     * https://www.hyundainews.com/en-us/releases/3952
