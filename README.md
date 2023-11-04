@@ -48,7 +48,7 @@
     * 2023-07-07
     * adapter: 2024
     * port change: 2025
-  * Brands: Mercedes-Benz, Mercedes-AMG, Mercedes-Maybach
+  * Brands: Mercedes-Benz, Mercedes-AMG, Mercedes-Maybach, Smart
 * Nissan
   * https://usa.nissannews.com/en-US/releases/nissan-to-adopt-north-american-charging-standard-nacs-for-ariya-and-future-ev-models
   * 2023-07-19
