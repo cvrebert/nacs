@@ -101,6 +101,10 @@
     * Included in Toyota announcement.
 * Volvo
   * Polestar
+    * https://media.polestar.com/us/en/media/pressreleases/669136/polestar-will-adopt-north-american-charging-standard-to-enable-access-to-tesla-supercharger-network-1
+    * 2023-06-29
+    * adapter: midyear 2024
+    * port change: 2025
 
 ---
 
