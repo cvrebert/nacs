@@ -19,6 +19,12 @@
 * Fisker
 * Honda
 * Hyundai
+  * Brands: TODO
+  * Kia
+    * https://www.kiamedia.com/us/en/media/pressreleases/21261/kia-to-adopt-north-american-charging-standard-in-the-fourth-quarter-of-2024
+    * 2023-10-05
+    * adapter: Q1 2025
+    * port change: Q4 2024
 * Jaguar Land Rover
 * Mercedes-Benz
 * Nissan
