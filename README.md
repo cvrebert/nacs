@@ -18,6 +18,7 @@
 * BMW
 * Fisker
 * Honda
+  * Brands: Honda, Acura
 * Hyundai Motor Group
   * Brands: TODO
   * Hyundai
@@ -41,11 +42,13 @@
     * 2023-09-21
     * adapter: "will [...] source adapters from Tesla [...] once available"
     * port change: 2025
-* Mercedes-Benz
-  * https://group.mercedes-benz.com/innovation/drive-systems/electric/integration-of-nacs.html
-  * 2023-07-07
-  * adapter: 2024
-  * port change: 2025
+* Mercedes-Benz Group
+  * Mercedes-Benz
+    * https://group.mercedes-benz.com/innovation/drive-systems/electric/integration-of-nacs.html
+    * 2023-07-07
+    * adapter: 2024
+    * port change: 2025
+  * Brands: Mercedes-Benz, Mercedes-AMG, Mercedes-Maybach
 * Nissan
   * https://usa.nissannews.com/en-US/releases/nissan-to-adopt-north-american-charging-standard-nacs-for-ariya-and-future-ev-models
   * 2023-07-19
