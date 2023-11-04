@@ -86,6 +86,7 @@
     * port change: 2025
     * Brands: Nissan, Infiniti
   * Mitsubishi
+    * No announcement as of 2023-11-01.
 * Rivian
   * https://rivian.com/newsroom/article/rivian-accelerates-electrification-through-adoption-of-north-american-charging-standard-and-access-to-teslas-supercharger-network
   * 2023-06-20
@@ -121,7 +122,6 @@
 
 * To be categorized
   * Aston Martin
-  
 
 ---
 
