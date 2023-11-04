@@ -14,3 +14,8 @@
   * adapter: early 2024
   * port change: 2025
   * Brands: Buick, Cadillac, Chevrolet/Chevy,	GMC
+* No announcements as of 2023-11-01
+  * Lucid
+  * Mazda
+  * Stellantis
+  * Volkswagen
