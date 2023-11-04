@@ -55,6 +55,7 @@
     * 2023-07-19
     * adapter: 2024
     * port change: 2025
+    * Brands: Nissan, Infiniti
   * Mitsubishi
 * Rivian
 * Subaru
