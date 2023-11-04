@@ -70,7 +70,7 @@
 * Rivian
 * Subaru
 * Tesla
- * duh
+  * duh
 * Toyota
   * Lexus
 * Volvo
