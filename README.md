@@ -20,7 +20,11 @@
   * Brands: Buick, Cadillac, Chevrolet/Chevy,	GMC
 * BMW
   * Brands: BMW, Mini, Rolls-Royce
-* Fisker
+* Fisker Inc.
+  * https://investors.fiskerinc.com/news/news-details/2023/Fisker-Customers-Will-Gain-Access-to-Tesla-Superchargers-as-Company-Adopts-North-American-Charging-Standard/default.aspx
+  * 2023-08-15
+  * adapter: Q1 2025
+  * port change: 2025
 * Honda
   * Honda
     * https://hondanews.com/en-US/releases/release-e888887b6471c0aba407829ba71814b8-honda-to-adopt-north-american-charging-standard-nacs-for-its-ev-models-in-north-america
