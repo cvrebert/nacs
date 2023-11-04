@@ -121,12 +121,8 @@
 
 ---
 
-* To be categorized
-  * Aston Martin
-
----
-
 * No announcements as of 2023-11-01
+  * Aston Martin
   * Lucid
   * Mazda
   * Stellantis
