@@ -20,6 +20,11 @@
 * Honda
 * Hyundai
   * Brands: TODO
+  * Hyundai
+    * https://www.hyundainews.com/en-us/releases/3952
+    * 2023-10-05
+    * adapter: Q1 2025
+    * port change: Q4 2024
   * Genesis
     * https://www.genesisnewsusa.com/en-us/releases/323
     * 2023-10-05
