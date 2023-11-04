@@ -99,7 +99,8 @@
   * adapter: 2025
   * port change: 2025
 * Tesla
-  * duh
+  * adapter: N/A
+  * port change: 2012
 * Toyota
   * https://pressroom.toyota.com/toyota-adopts-the-north-american-charging-standard-to-expand-customer-charging-options/
   * 2023-10-19
