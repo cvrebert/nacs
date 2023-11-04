@@ -49,7 +49,6 @@
     * adapter: 2024
     * port change: 2025
   * Brands: Mercedes-Benz, Mercedes-AMG, Mercedes-Maybach, Smart
-* Polestar
 * Renault–Nissan–Mitsubishi Alliance
   * Nissan
     * https://usa.nissannews.com/en-US/releases/nissan-to-adopt-north-american-charging-standard-nacs-for-ariya-and-future-ev-models
@@ -61,6 +60,7 @@
 * Subaru
 * Toyota
 * Volvo
+  * Polestar
 * No announcements as of 2023-11-01
   * Lucid
   * Mazda
