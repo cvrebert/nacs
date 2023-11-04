@@ -33,7 +33,6 @@
     * port change: 2025
   * Brands: Honda, Acura, Afeela (Sony Honda Mobility)
 * Hyundai Motor Group
-  * Brands: TODO
   * Hyundai
     * https://www.hyundainews.com/en-us/releases/3952
     * 2023-10-05
