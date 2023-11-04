@@ -6,6 +6,10 @@
 ---
 
 * Aptera
+  * https://aptera.us/tesla-charging/
+  * 2022-11-30
+  * adapter: N/A
+  * port change: on first models that will ship
 * Ford
   * https://media.ford.com/content/fordmedia/fna/us/en/news/2023/05/25/ford-ev-customers-to-gain-access-to-12-000-tesla-superchargers--.html
   * 2023-05-25
