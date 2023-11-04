@@ -47,6 +47,7 @@
     * adapter: confirmed; no date promised
     * port change: 2025
   * Afeela (Sony Honda Mobility)
+    * No announcement as of 2023-11-01.
 * Hyundai Motor Group
   * Hyundai
     * https://www.hyundainews.com/en-us/releases/3952
