@@ -77,7 +77,12 @@
 * Tesla
   * duh
 * Toyota
+  * https://pressroom.toyota.com/toyota-adopts-the-north-american-charging-standard-to-expand-customer-charging-options/
+  * 2023-10-19
+  * adapter: 2025
+  * port change: 2025
   * Lexus
+    * Included in Toyota announcement.
 * Volvo
   * Polestar
 
