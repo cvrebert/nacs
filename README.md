@@ -81,7 +81,6 @@
 * To be categorized
   * Aston Martin
   * Suzuki
-  * VinFast
 
 ---
 
@@ -96,5 +95,6 @@
     * Jeep
     * Maserati
     * Ram
+  * VinFast
   * Volkswagen Group
     * Brands: Audi, Bentley, Lamborghini, Porsche, Volkswagen/VW
