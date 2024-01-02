@@ -116,6 +116,16 @@
   * port change: 2025
   * Lexus
     * Included in Toyota announcement.
+* Volkswagen Group
+  * https://media.vw.com/en-us/releases/1774
+  * 2023-12-19
+  * adapter: 2025
+  * port change: 2025; for Scout: at launch
+  * Brands: Volkswagen/VW, Audi, Scout; no separate press releases as of 2024-01-01
+  * Porsche
+    * 2023-12-19
+    * https://press.porsche.com/prod/presse_pag/PressResources.nsf/Content?ReadForm&languageversionid=1520009
+    * (same as others)
 * Volvo Group
   * Volvo
     * https://www.media.volvocars.com/us/en-us/media/pressreleases/316416/electric-volvo-car-drivers-will-get-access-to-12000-tesla-superchargers-across-the-united-states-can
@@ -130,7 +140,7 @@
 
 ---
 
-* No announcements as of 2023-11-01
+* No announcements as of 2024-01-01
   * Aston Martin
   * Mazda
   * Stellantis
@@ -143,5 +153,6 @@
     * Ram
   * Suzuki
   * VinFast
-  * Volkswagen Group
-    * Brands: Audi, Bentley, Lamborghini, Porsche, Volkswagen/VW
+  * Misc. Volkswagen Group
+    * Bentley
+    * Lamborghini
