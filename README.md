@@ -72,6 +72,11 @@
     * port change: 2025
   * Land Rover
     * No announcement as of 2023-11-01.
+* Lucid Motors
+  * https://lucidmotors.com/media-room/lucid-adopt-nacs
+  * 2023-11-06
+  * adapter: 2025
+  * port change: 2025
 * Mercedes-Benz Group
   * Mercedes-Benz
     * https://group.mercedes-benz.com/innovation/drive-systems/electric/integration-of-nacs.html
@@ -124,7 +129,6 @@
 
 * No announcements as of 2023-11-01
   * Aston Martin
-  * Lucid
   * Mazda
   * Stellantis
     * Alfa Romeo
