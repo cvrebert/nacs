@@ -120,12 +120,23 @@
   * https://media.vw.com/en-us/releases/1774
   * 2023-12-19
   * adapter: 2025
-  * port change: 2025; for Scout: at launch
-  * Brands: Volkswagen/VW, Audi, Scout; no separate press releases as of 2024-01-01
+  * port change: 2025
+  * Audi
+    * Included in the Volkswagen Group announcement.
+  * Volkswagen/VW
+    * Included in the Volkswagen Group announcement.
   * Porsche
     * 2023-12-19
     * https://press.porsche.com/prod/presse_pag/PressResources.nsf/Content?ReadForm&languageversionid=1520009
-    * (same as others)
+    * Included in the Volkswagen Group announcement. Identical press releases.
+  * Scout
+    * adapter: N/A
+    * port change: Unnecessary. Launch models will use NACS.
+    * Included in the Volkswagen Group announcement.
+  * Bentley
+    * No announcement as of 2024-01-01.
+  * Lamborghini
+    * No announcement as of 2024-01-01.
 * Volvo Group
   * Volvo
     * https://www.media.volvocars.com/us/en-us/media/pressreleases/316416/electric-volvo-car-drivers-will-get-access-to-12000-tesla-superchargers-across-the-united-states-can
@@ -153,6 +164,3 @@
     * Ram
   * Suzuki
   * VinFast
-  * Misc. Volkswagen Group
-    * Bentley
-    * Lamborghini
