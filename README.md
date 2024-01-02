@@ -2,6 +2,9 @@
 
 * North American Charging Standard (NACS)
 * SAE J3400
+  * Technical Information Report: 2023-12-19
+  * https://www.sae.org/news/press-room/2023/12/sae-j3400-tir-press-release
+  * Versus SAE J1772, which is an "SAE Standard"; presumably J3400 will progress to that status in due course.
 
 ---
 
