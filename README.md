@@ -80,6 +80,11 @@
   * 2023-11-06
   * adapter: 2025
   * port change: 2025
+* Mazda
+  * https://news.mazdausa.com/2024-01-15-Mazda-Adopts-North-American-Charging-Standard-NACS-for-North-American-BEVs
+   * 2024-01-16
+   * adapter: No announcement.
+   * port change: 2025
 * Mercedes-Benz Group
   * Mercedes-Benz
     * https://group.mercedes-benz.com/innovation/drive-systems/electric/integration-of-nacs.html
@@ -151,9 +156,8 @@
 
 ---
 
-* No announcements as of 2024-01-01
+* No announcements as of 2024-01-26
   * Aston Martin
-  * Mazda
   * Stellantis
     * Alfa Romeo
     * Chrysler
