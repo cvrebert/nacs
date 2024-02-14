@@ -106,6 +106,12 @@
   * 2023-06-20
   * adapter: spring 2024
   * port change: 2025
+* Stellantis
+  * https://media.stellantisnorthamerica.com/newsrelease.do?id=25673&mid=1
+  * 2024-02-08
+  * adapter: yes; no timeline
+  * port change: 2025
+  * Brands: Alfa Romeo, Chrysler, Dodge, Fiat, Jeep, Maserati, Ram
 * Subaru
   * https://media.subaru.com/pressrelease/2115/117/subaru-adopt-tesla-north-american-charging-standard-north
   * 2023-11-01
@@ -158,13 +164,5 @@
 
 * No announcements as of 2024-01-26
   * Aston Martin
-  * Stellantis
-    * Alfa Romeo
-    * Chrysler
-    * Dodge
-    * Fiat
-    * Jeep
-    * Maserati
-    * Ram
   * Suzuki
   * VinFast
