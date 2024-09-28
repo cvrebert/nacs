@@ -49,8 +49,11 @@
     * Confirms that Honda announcement applies to Acura too.
     * adapter: confirmed; no date promised
     * port change: 2025
-  * Afeela (Sony Honda Mobility)
-    * No announcement as of 2023-11-01.
+  * AFEELA (Sony Honda Mobility)
+    * https://www.shm-afeela.com/en/news/2024-09-27/
+    * 2024-09-27
+    * adapter: N/A
+    * port change: Unnecessary. Launch models will use NACS.
 * Hyundai Motor Group
   * Hyundai
     * https://www.hyundainews.com/en-us/releases/3952
