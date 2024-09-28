@@ -165,7 +165,7 @@
 
 ---
 
-* No announcements as of 2024-01-26
+* No announcements as of 2024-09-27
   * Aston Martin
   * Suzuki
   * VinFast
