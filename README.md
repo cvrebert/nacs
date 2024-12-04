@@ -1,9 +1,12 @@
 # NACS
 
-* North American Charging Standard (NACS)
-* SAE J3400
-  * Technical Information Report: 2023-12-19
-  * https://www.sae.org/news/press-room/2023/12/sae-j3400-tir-press-release
+* North American Charging System (NACS)
+  * Formerly: North American Charging **Standard**
+* SAE J3400 - NACS Electric Vehicle Coupler
+  * Technical Recommended Practice (RP): 2024-10-08
+    * https://www.sae.org/news/press-room/2024/10/sae-j3400-recommended-practice
+  * Technical Information Report (TIR): 2023-12-19
+    * https://www.sae.org/news/press-room/2023/12/sae-j3400-tir-press-release
   * Versus SAE J1772, which is an "SAE Standard"; presumably J3400 will progress to that status in due course.
 
 ---
